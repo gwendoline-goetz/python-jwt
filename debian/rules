@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-export PYBUILD_NAME=jwt
+export PYBUILD_NAME=jwt2
 
 export PYTHONWARNINGS=d
 
