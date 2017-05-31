@@ -1,0 +1,5 @@
+python-jwt (2.0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release
+
+ -- Philippe Goetz <philippe.goetz@siemens.com>  Wed, 31 May 2017 07:06:18 +0200
